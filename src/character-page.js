@@ -38,7 +38,7 @@ const characterPageComponent = {
       <div class="character2">
         <p class="p-block">
           <span class="p-bold">誕生日</span>：<slot name="birthday">？？？</slot><br />
-          <span class="p-bold">所属</span>：<slot name="belonging">獣爾騎兵</slot><br />
+          <span class="p-bold">出身</span>：<slot name="fromarea">龍天国</slot><br />
           <span class="p-bold">獣種特性</span>：<slot name="beastspecname">？？？</slot><br />
           <slot name="beastspecabout">？？？</slot><br />
           <span class="p-bold">性格</span>：<slot name="characteristic">？？？</slot><br />
